@@ -1,0 +1,35 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.3/css/mdb.min.css);
+@import url(http://cdn.datatables.net/1.10.12/css/jquery.dataTables.css);
+
+.hm-gradient {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+.darken-grey-text {
+    color: #2E2E2E;
+}
+
+.navbar .dropdown-menu a:hover {
+    color: #616161 !important;
+}
+.darken-grey-text {
+    color: #2E2E2E;
+}
+.tname{
+    font-weight: bold;
+}
+.price{
+    color:#000;
+    font-size:17px;
+    margin:0;
+    display:block;
+    transition:all .5s ease 0s;
+    
+}
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* list.php */
+
